@@ -1,1 +1,3 @@
-gender_dataset_face/
+gender_dataset_face/man
+gender_dataset_face/woman
+Model/gender_dection.h5
