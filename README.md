@@ -10,7 +10,7 @@ Directory Structure for Dataset :
     - img1.jpg
     - img2.jpg
     - ....
-    - **/woman/**: Images of women for training.
+  - **/woman/**: Images of women for training.
     - img1.jpg
     - img2.jpg
     - ....
