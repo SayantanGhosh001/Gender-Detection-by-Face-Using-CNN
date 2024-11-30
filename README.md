@@ -5,14 +5,13 @@
 Directory Structure for Dataset :
 
 - **/gender_dataset_face/**: Root directory containing all the data.
-  - **/Train/**: Contains training data.
     - **/man/**: Images of men for training.
-    - img1.jpg
-    - img2.jpg
-    - ....
+      - img1.jpg
+      - img2.jpg
+      - ....
   - **/woman/**: Images of women for training.
-    - img1.jpg
-    - img2.jpg
-    - ....
+      - img1.jpg
+      - img2.jpg
+      - ....
 
 
