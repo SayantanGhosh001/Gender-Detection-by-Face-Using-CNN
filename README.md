@@ -13,5 +13,24 @@ Directory Structure for Dataset :
       - img1.jpg
       - img2.jpg
       - ....
+   
+  ## 🧠 Technologies Used
+
+- **Python**
+- **TensorFlow / Keras**
+- **OpenCV**
+- **NumPy**
+- **Pandas**
+- **Matplotlib / Seaborn**
+- **Scikit-learn**
+- **Xception** (Pre-trained CNN)
+- **MobileNet** (Pre-trained CNN)
+- **DenseNet** (Pre-trained CNN)
+- **Custom CNN Model**
+- **Data Augmentation**
+- **Stratified K-Fold Cross-Validation**
+- **Early Stopping**
+
+
 
 
